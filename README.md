@@ -5,14 +5,14 @@ This repository documents how transition-friendly various services and products 
 
 **Table of contents:**
 
-1. [Purpose]()
-2. [Criteria]()
-    1. [Basic criteria]()
-    2. [Additional criteria]()
-3. [Ratings]()
-4. [Testimonials]()
-5. [Contributors]()
-6. [License]()
+1. [Purpose](#1-purpose)
+2. [Criteria](#2-criteria)
+    1. [Basic criteria](#21-basic-criteria)
+    2. [Additional criteria](#22-additional-criteria)
+3. [Ratings](#3-ratings)
+4. [Testimonials](#4-testimonials)
+5. [Contributors](#5-contributors)
+6. [License](#6-license)
 
 ## 1. Purpose
 > Gender transitioning is the process of changing one's gender presentation and/or sex characteristics to accord with one's internal sense of gender identity – the idea of what it means to be a man or a woman, or to be non-binary or genderqueer.
